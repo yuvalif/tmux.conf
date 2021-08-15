@@ -7,6 +7,7 @@
 cd ~
 git clone https://github.com/yuvalif/tmux.conf.git
 ln -s tmux.conf/tmux.conf .tmux.conf
+ln -s tmux.conf/gitmux.conf .gitmux.conf
 cd tmux.conf && ./fetch_dependencies.sh
 ```
 
