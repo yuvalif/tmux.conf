@@ -7,5 +7,5 @@ sudo npm install -g tmux-mem
 
 # git status
 echo "install gitmux"
-go get -u github.com/arl/gitmux
+go install github.com/arl/gitmux@latest
 sudo cp ~/go/bin/gitmux /usr/local/bin
