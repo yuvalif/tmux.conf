@@ -1,4 +1,4 @@
-#!/bin/zsh
+sudo dnf install -y npm
 
 # CPU/mem
 echo "install tmux-cpu/mem"
