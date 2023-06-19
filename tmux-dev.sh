@@ -1,5 +1,3 @@
-#!/bin/bash
-
 if [ "$#" -ne 2 ]; then
     echo "Usage: $0 <session name> <directory name>"
     exit 1
